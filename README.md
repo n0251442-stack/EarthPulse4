@@ -1,10 +1,11 @@
+
 # EarthPulse4 — Explore Earth, Hear Its Story
 
 ### An Accessible, Multisensory Climate Data Experience
 
 **EarthPulse4** is an interactive platform that transforms NASA's historical climate data into visual and auditory experiences.
 
-Using NASA GISS Surface Temperature Analysis (GISTEMP v4), EarthPulse4 allows users to explore Earth's temperature changes through interactive maps, a 3D globe, historical visualizations, and musical sound.
+Using NASA GISS Surface Temperature Analysis (GISTEMP v4), EarthPulse4 allows users to explore Earth's temperature changes through interactive maps, a 3D globe, historical visualizations, and musical sounds.
 
 ### How It Works
 
@@ -15,7 +16,7 @@ This creates an alternative way to explore and understand climate change through
 ### Explore EarthPulse4
 
 🌍 **Live Platform:**  
-https://earthpulse-explore-earth-hear-its-s-pied.vercel.app/
+https://earthpulse4.vercel.app/
 
 💻 **Source Code:**  
 https://github.com/n0251442-stack/EarthPulse4
