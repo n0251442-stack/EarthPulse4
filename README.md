@@ -19,7 +19,7 @@ This creates an alternative way to explore and understand climate change through
 https://earthpulse-explore4-earth-hear-its.vercel.app/
 
 Project Demo Video:
-https://youtu.be/32GZ5LgH0eg
+https://youtu.be/ciUVXnGGBHU
 
 
 ### Data Source
