@@ -18,8 +18,9 @@ This creates an alternative way to explore and understand climate change through
 🌍 **Live Platform:**  
 https://earthpulse-explore4-earth-hear-its.vercel.app/
 
-💻 **Source Code:**  
-https://github.com/n0251442-stack/EarthPulse4
+Project Demo Video:
+https://youtu.be/32GZ5LgH0eg
+
 
 ### Data Source
 
