@@ -16,7 +16,7 @@ This creates an alternative way to explore and understand climate change through
 ### Explore EarthPulse4
 
 🌍 **Live Platform:**  
-https://earthpulse4.vercel.app/
+https://earthpulse-explore4-earth-hear-its.vercel.app/
 
 💻 **Source Code:**  
 https://github.com/n0251442-stack/EarthPulse4
